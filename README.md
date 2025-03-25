@@ -17,12 +17,12 @@ I'm a full stack engineer @ [Zendesk](https://www.zendesk.com/au/)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KUNWARDEEP&theme=default&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KUNWARDEEP&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KUNWARDEEP&theme=&column=5&margin-w=15&margin-h=15)
 
 
-## 💰 You can help me by Donating
+# 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kunwardeep)
 
-## Random stats
+# Random stats
 [![Kunwardeep Singh Bedi profile views](https://u8views.com/api/v1/github/profiles/13211086/views/day-week-month-total-count.svg)](https://u8views.com/github/kunwardeep)
