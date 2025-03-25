@@ -28,11 +28,14 @@ I'm a Full Stack Engineer at [Zendesk](https://www.zendesk.com/au/) based in Mel
 </p>
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KUNWARDEEP&theme=&column=5&margin-w=15&margin-h=15)
 
 ## 📈 Profile Views
 [![Kunwardeep Singh Bedi profile views](https://u8views.com/api/v1/github/profiles/13211086/views/day-week-month-total-count.svg)](https://u8views.com/github/kunwardeep)
 
-## 💰 [Show me the money](https://www.youtube.com/watch?v=IpwSXWq1wwU&t=4s)
+# 💰 [Show me the money](https://www.youtube.com/watch?v=IpwSXWq1wwU&t=4s)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kunwardeep)
+
+# Random stats
+[![Kunwardeep Singh Bedi profile views](https://u8views.com/api/v1/github/profiles/13211086/views/day-week-month-total-count.svg)](https://u8views.com/github/kunwardeep)
