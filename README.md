@@ -18,7 +18,7 @@ I'm a full stack engineer @ [Zendesk](https://www.zendesk.com/au/)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KUNWARDEEP&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KUNWARDEEP&theme=&column=4&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=KUNWARDEEP&theme=&column=5&margin-w=15&margin-h=15)
 
 
 ## 💰 You can help me by Donating
