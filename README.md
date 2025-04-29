@@ -5,7 +5,7 @@ I'm a Full Stack Engineer at [Zendesk](https://www.zendesk.com/au/) based in Mel
 ## 👨‍💻 About Me
 - 🌍 Based in Melbourne, Australia
 - 💼 Currently working at Zendesk
-- 🚀 Building with React, TypeScript, Go, and Ruby
+- 🚀 Building with React, TypeScript, Node,js, Go, and Ruby
 - 📫 Reach me at [kunwardeep@gmail.com](mailto:kunwardeep@gmail.com)
 - 🌐 Visit my [Portfolio](https://kunwardeep.com/)
 
