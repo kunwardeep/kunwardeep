@@ -1,10 +1,8 @@
 # Hi 👋 I'm Kunwardeep Singh Bedi
 
-I'm a Full Stack Engineer at [Zendesk](https://www.zendesk.com/au/) based in Melbourne, Australia, specializing in building scalable web applications and cloud solutions.
+I'm a Full Stack Engineer at [Easygo](https://easygo.io/) based in Melbourne, Australia, specializing in building scalable web applications and cloud solutions.
 
 ## 👨‍💻 About Me
-- 🌍 Based in Melbourne, Australia
-- 💼 Currently working at Zendesk
 - 🚀 Building with React, TypeScript, Node,js, Go, and Ruby
 - 📫 Reach me at [kunwardeep@gmail.com](mailto:kunwardeep@gmail.com)
 - 🌐 Visit my [Portfolio](https://kunwardeep.com/)
